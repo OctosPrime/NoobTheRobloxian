@@ -1,0 +1,35 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Options",
+      "Elements": [
+        {
+            "Name": "IncludeDir0",
+            "DisplayName": "Custom Enemy",
+            "Description": [
+                "Choose to disable or enable custom enemies for the mod (They are experimental)."
+            ],
+            "Type": "Input",
+            "MinValue": null,
+            "MaxValue": null,
+            "DefaultValue": "./Enemies/"
+        }
+      ]
+    }
+  ],
+    "Enums": {
+        "Input": [
+            {
+                "DisplayName": "Disable",
+                "Value": "./Noob/"
+            },
+            {
+                "DisplayName": "Enable",
+                "Value": "./Noob/Enemies/"
+            }
+        ]
+    },
+
+  "IniFile": "mod.ini"
+}
