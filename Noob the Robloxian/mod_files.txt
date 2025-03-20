@@ -1,7 +1,7 @@
 add Noob/+ActionCommon.ar.00
 add Noob/+ActionCommon.arl
-add Noob/+EvilActionCommon.ar.00
-add Noob/+EvilActionCommon.arl
+add Noob/+EvilActionCommonGeneral.ar.00
+add Noob/+EvilActionCommonGeneral.arl
 add Noob/+Sonic.ar.00
 add Noob/+Sonic.arl
 add Noob/+SonicActionCommonGeneral.ar.00
