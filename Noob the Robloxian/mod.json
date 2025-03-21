@@ -24,7 +24,7 @@
             "Type": "Input2",
             "MinValue": null,
             "MaxValue": null,
-            "DefaultValue": "./Enemies/"
+            "DefaultValue": "./Noob/"
         }
       ]
     }
