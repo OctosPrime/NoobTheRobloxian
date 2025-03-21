@@ -5,7 +5,18 @@
       "DisplayName": "Options",
       "Elements": [
         {
-            "Name": "IncludeDir0",
+          "Name": "IncludeDir1",
+            "DisplayName": "Jumpball Effect",
+            "Description": [
+                "Choose to disable or enable Jumpall Effects for the mod."
+            ],
+            "Type": "Input",
+            "MinValue": null,
+            "MaxValue": null,
+            "DefaultValue": "./NoJumpballEff/"
+        },
+        {
+          "Name": "IncludeDir2",
             "DisplayName": "Custom Enemy (Test Experimental)",
             "Description": [
                 "Choose to disable or enable custom enemies for the mod (They are experimental)."
@@ -19,7 +30,17 @@
     }
   ],
     "Enums": {
-        "Input": [
+      "Input": [
+          {
+              "DisplayName": "Disable",
+              "Value": "./Noob/NoJumpballEff/"
+          },
+          {
+              "DisplayName": "Enable",
+              "Value": "./Noob/JumpballEff/"
+          }
+      ],
+        "Input2": [
             {
                 "DisplayName": "Disable",
                 "Value": "./Noob/"
