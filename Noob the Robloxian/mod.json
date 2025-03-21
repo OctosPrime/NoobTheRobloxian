@@ -21,7 +21,7 @@
             "Description": [
                 "Choose to disable or enable custom enemies for the mod (They are experimental)."
             ],
-            "Type": "Input",
+            "Type": "Input2",
             "MinValue": null,
             "MaxValue": null,
             "DefaultValue": "./Enemies/"
