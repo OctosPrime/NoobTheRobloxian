@@ -32,5 +32,9 @@ add Noob/voices/English/+Sonic.ar.00
 add Noob/voices/English/+Sonic.arl
 add Noob/Enemies/+SonicEnemyEFighterN.ar.00
 add Noob/Enemies/+SonicEnemyEFighterN.arl
+add Noob/JumpballEff/+Sonic.ar.00
+add Noob/JumpballEff/+Sonic.arl
+add Noob/NoJumpballEff/+Sonic.ar.00
+add Noob/NoJumpballEff/+Sonic.arl
 add mod.ini
 add mod.json
