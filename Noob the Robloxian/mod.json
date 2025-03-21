@@ -16,7 +16,7 @@
             "DefaultValue": "./NoJumpballEff/"
         },
         {
-          "Name": "IncludeDir2",
+          "Name": "IncludeDir3",
             "DisplayName": "Custom Enemy (Test Experimental)",
             "Description": [
                 "Choose to disable or enable custom enemies for the mod (They are experimental)."
